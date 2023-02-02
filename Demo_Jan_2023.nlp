@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Demo_Jan_2023
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=8.2.1
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=2e01b366-7c8d-43c1-a867-36baa410c831
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+project.workspace=5e3acde2e860a132744ca916
+project.test-settings=c4c76997-a6e9-4bd9-b706-1ca122940851

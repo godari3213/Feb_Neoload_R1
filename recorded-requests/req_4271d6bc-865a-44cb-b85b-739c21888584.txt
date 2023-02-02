@@ -1,0 +1,20 @@
+POST https://neoload.saas.neotys.com:443/HEARTBEAT/?v-uiId=0 HTTP/1.1
+Host: neoload.saas.neotys.com
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: "Not_A Brand";v="99", "Microsoft Edge";v="109", "Chromium";v="109"
+sec-ch-ua-platform: "Windows"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70
+Content-Type: text/plain; charset=utf-8
+Accept: */*
+Origin: https://neoload.saas.neotys.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://neoload.saas.neotys.com/sessionexpired
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _ga=GA1.1.1463675593.1672890719; JSESSIONID=node01u3s6l7ggrwrt1udxvjwmhi0j6802.node0; Authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhY2MiOlsiNjJjNmI1YzNhODY3YTg2OWJiZTUzYjg5Il0sImlhdCI6MTY3NTA1MzkxNSwiZXhwIjoxNjc1MTQwMzE1LCJpc3MiOiJodHRwczovL2F1dGguc2Fhcy5uZW90eXMuY29tIiwic3ViIjoiNjFiMDQ4ODBhMGQ2M2I3ODFkOTRlN2EwIn0.CFCGgqMYfoO3IdidGRHekEGl3Mcaf-Vl40swdbgEVonxa4Biqeuvs58LFdC0zozx8kODU2p3XyqMVmDvliMZkb_gvKrRthDh6lYK4-SdPd3hw_UuDxzblUw-pjvYu0VA2FkpV4Lpc4TsTENTCz1OKztDLLE-ZS2GQo8wuAhtLIEjFZMRmXd3XC99mBw4Y_vi82aVngJ3Y_7qWUJFTM9dk03p3SGFenrgBOT0Z6q6lc-HH_L0iwWMX5jBZk7Gje-seaxlv-3rA8NovIcpJqTwIJdd-iQa2cVwpDQACI3UFXTFpsCGOszExj6QnNTPhPNrzqmlyDNsZYMBBdtGzWTzTw; _gid=GA1.1.2025870442.1675053923; AWSALB=QeZe1fvGzE7cPWV1L/AGYJmKnZNYOxztuM59cCt8Yr1HEE+vZ+zFiCOEgOSRtRoM9il89VatQ77hDxPHEmQwKG9oTvq5CxAaEVvRd0waz2aoiJ3f+xW5BakbTO93; AWSALBCORS=QeZe1fvGzE7cPWV1L/AGYJmKnZNYOxztuM59cCt8Yr1HEE+vZ+zFiCOEgOSRtRoM9il89VatQ77hDxPHEmQwKG9oTvq5CxAaEVvRd0waz2aoiJ3f+xW5BakbTO93
+
